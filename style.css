@@ -4,16 +4,12 @@ body {
     font-family: 'Libre Baskerville', serif;
     margin: 24px auto;
     padding: 36px 36px 36px 36px;
-    border: 12px;
     position: relative;
     z-index: 1000;
     max-width: 980px;
     min-width: 640px;
     }
 
-    * {
-    box-sizing: border-box;
-    }
 
     img {
     width: 100%;
