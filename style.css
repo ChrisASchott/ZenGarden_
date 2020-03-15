@@ -3,7 +3,6 @@
 html, body {
     font-family: 'Libre Baskerville', serif;
     margin: 24px auto;
-    padding: 36px 36px;
     border: 24px
     position: relative;
     z-index: 1000;
@@ -34,6 +33,5 @@ html, body {
     }
 
     .sidebar {
-        padding: 0px 0px 60px 0px;
         font-size: smaller;
     }
