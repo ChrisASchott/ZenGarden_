@@ -20,6 +20,7 @@ body {
 
     banner {
         padding: 0 120px;
+        {"scrollThreshold":4,"hover_to_open":true}
     }
 
     header h1 {
@@ -28,4 +29,8 @@ body {
 
     header h2 {
         font: '<em>Libre Baskerville</em>';
+    }
+
+    .main supporting= {
+
     }
