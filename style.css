@@ -3,7 +3,7 @@
 body {
     font-family: 'Libre Baskerville', serif;
     margin: 24px auto;
-    padding: 0 64px 0 50px;
+    padding: 36px 36px 36px 36px;
     position: relative;
     z-index: 1000;
     max-width: 980px;
