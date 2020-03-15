@@ -27,6 +27,6 @@ body {
         font: '<em>Libre Baskerville</em>';
     }
 
-    .article {
+    article {
         box-shadow: -12px 12px 24px 0px rgba(0,0,0,0.75);
     }
