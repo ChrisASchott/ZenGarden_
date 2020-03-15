@@ -25,9 +25,13 @@ html, body {
     }  
 
     header h2 {
-        font: '<em>Libre Baskerville</em>';
+        font-style: italic;
     }
 
     .main {
         box-shadow: -12px 12px 24px 0px rgba(0,0,0,0.75);
+    }
+
+    .sidebar {
+        font-size: smaller;
     }
