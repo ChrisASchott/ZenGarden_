@@ -16,6 +16,9 @@ html, body {
     height: auto;
     }
 
+    .intro {
+        padding: 0px 60px;
+    }
 
     header h1 {
     font-size: 400%;    
@@ -31,5 +34,6 @@ html, body {
     }
 
     .sidebar {
+        padding: 0px 60px;
         font-size: smaller;
     }
