@@ -3,7 +3,7 @@
 html, body {
     font-family: 'Libre Baskerville', serif;
     margin: 24px auto;
-    padding: 36px 36px 36px 36px;
+    padding: 36px 36px;
     border: 24px
     position: relative;
     z-index: 1000;
@@ -16,8 +16,8 @@ html, body {
     height: auto;
     }
 
-    banner {
-        padding: 120px 120px;
+    .intro {
+        padding: 60px 60px;
     }
 
     header h1 {
@@ -29,6 +29,7 @@ html, body {
     }
 
     .main {
+        padding: 60px 60px;
         box-shadow: -12px 12px 24px 0px rgba(0,0,0,0.75);
     }
 
