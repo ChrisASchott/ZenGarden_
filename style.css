@@ -15,9 +15,8 @@ html, body {
     height: auto;
     }
 
-    header {
-        background-color: #850042;
-        color: white;
+    banner {
+        padding: 0 40px;
     }
 
     header h1 {
