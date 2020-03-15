@@ -29,7 +29,7 @@ html, body {
 
     .main {
         padding: 60px 60px;
-        box-shadow: -12px 12px 24px 0px rgba(0,0,0,0.75);
+        box-shadow: -12px 12px 24px 0px lightgrey;
     }
 
     .sidebar {
