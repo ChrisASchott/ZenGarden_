@@ -3,11 +3,10 @@
 html, body {
     font-family: 'Libre Baskerville', serif;
     margin: 24px auto;
-    border: 24px
     position: relative;
     z-index: 1000;
     max-width: 980px;
-    min-width: 640px;
+    min-width: 320px;
     }
 
     img {
@@ -16,8 +15,9 @@ html, body {
     }
 
     .intro {
-        padding: 60px 60px;
+        padding: 24px 60px;
         background-color: lightgrey;
+        box-shadow: -12px 12px 24px 0px lightgrey;
     }
 
     header h1 {
@@ -26,10 +26,12 @@ html, body {
 
     header h2 {
         font-style: italic;
+        padding-bottom: 16px;
     }
 
     .main {
-        padding: 60px 60px;
+        padding: 24px 60px 60px 60px;
+        background-color: white;
         box-shadow: -12px 12px 24px 0px lightgrey;
     }
 
