@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
 
-.css-zen-garden {
+html, body {
     font-family: 'Libre Baskerville', serif;
     margin: 24px auto;
     padding: 36px 36px 36px 36px;
