@@ -27,6 +27,7 @@ html, body {
 
     header h2 {
         font-style: italic;
+        margin-top: 0;
         padding-bottom: 24px;
         display: block;
     }
@@ -37,7 +38,7 @@ html, body {
     }
 
     .main {
-        padding: 24px 48px 48px 48px;
+        padding: 12px 48px 48px 48px;
         background-color: white;
         box-shadow: -12px 12px 24px 0px lightgrey;
     }
