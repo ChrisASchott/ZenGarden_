@@ -29,6 +29,10 @@ html, body {
         padding-bottom: 24px;
     }
 
+    h3 {
+        line-height: 3em;
+    }
+
     .main {
         padding: 24px 48px 48px 48px;
         background-color: white;
