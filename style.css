@@ -14,10 +14,6 @@ html, body {
     height: auto;
     }
 
-    header {
-        background-color: teal;
-    }
-
     .intro {
         padding: 12px 48px 24px 48px;
         background-color: lightgrey;
@@ -46,11 +42,10 @@ html, body {
         background-color: white;
         box-shadow: -12px 12px 24px 0px lightgrey;
     }
-
+    
     .sidebar {
         font-size: smaller;
     }
-
 
     a:hover, a:focus, a:active { 
         text-decoration: underline; 
