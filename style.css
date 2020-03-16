@@ -14,6 +14,10 @@ html, body {
     height: auto;
     }
 
+    header {
+        background-color: teal;
+    }
+
     .intro {
         padding: 12px 48px 24px 48px;
         background-color: lightgrey;
@@ -47,16 +51,7 @@ html, body {
         font-size: smaller;
     }
 
-    a:link { 
-        font-weight: bold; 
-        text-decoration: none; 
-        color: #B7A5DF;
-        }
-    a:visited { 
-        font-weight: bold; 
-        text-decoration: none; 
-        color: #D4CDDC;
-        }
+
     a:hover, a:focus, a:active { 
         text-decoration: underline; 
         color: #9685BA;
