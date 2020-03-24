@@ -21,7 +21,8 @@ html, body {
     }
 
     header {
-        background-image: url(images/GridPattern.svg);
+        background-image: 100% url(images/GridPattern.svg);
+        repeat: none
     }
 
     header h1 {
