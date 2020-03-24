@@ -22,7 +22,6 @@ html, body {
 
     header {
         background-image: url(images/GridPattern.svg);
-        background-repeat: no-repeat;
         background-size: cover;
     }
 
@@ -51,6 +50,21 @@ html, body {
     
     .sidebar {
         font-size: smaller;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column-gap: 16px;
+    }
+
+    .design-selection {
+
+    }
+
+    .design-archives {
+
+    }
+
+    .zen-resources {
+
     }
 
     a:hover, a:focus, a:active { 
