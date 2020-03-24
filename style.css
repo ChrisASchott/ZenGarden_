@@ -20,6 +20,10 @@ html, body {
         box-shadow: -12px 12px 24px 0px lightgrey;
     }
 
+    header {
+        background-image: url(/Users/chrisschott/Documents/GitHub/landing-page/images);
+    }
+
     header h1 {
     font-size: 400%;
     margin-bottom: 0;   
