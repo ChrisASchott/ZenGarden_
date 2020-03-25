@@ -15,27 +15,36 @@ html, body {
     }
 
     .intro {
-        padding: 12px 48px 24px 48px;
+        padding: 0 0 24px 0;
         background-color: lightgrey;
         box-shadow: -12px 12px 24px 0px lightgrey;
     }
 
     header {
+        padding: 64px 48px 12px 48px;
         background-image: url(images/GridPattern.svg);
         background-size: cover;
     }
 
     header h1 {
     font-size: 400%;
+    margin-top: 0;
     margin-bottom: 0;   
     }  
 
     header h2 {
         font-style: italic;
         margin-top: 0;
-        padding-bottom: 24px;
         display: block;
     }
+
+    #zen-summary {
+        padding: 0 48px 0px 48px;
+      }
+      
+      #zen-preamble {
+        padding: 0 48px 12px 48px;
+      }
 
     h3 {
         margin-top: 2em;
@@ -48,23 +57,11 @@ html, body {
         box-shadow: -12px 12px 24px 0px lightgrey;
     }
     
-    .sidebar {
+    .sidebar .wrapper{
         font-size: smaller;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         grid-column-gap: 16px;
-    }
-
-    .design-selection {
-
-    }
-
-    .design-archives {
-
-    }
-
-    .zen-resources {
-
     }
 
     a:hover, a:focus, a:active { 
