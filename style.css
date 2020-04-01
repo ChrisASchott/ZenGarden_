@@ -85,6 +85,12 @@ html, body {
         padding: 12px 12px 12px 6px
     }
 
+    @media (max-width: 680px) {
+        .sidebar .wrapper {
+          display: grid;
+          grid-template-columns: 1fr;
+        }
+
     a:hover, a:focus, a:active { 
         text-decoration: underline; 
         color: #9685BA;
